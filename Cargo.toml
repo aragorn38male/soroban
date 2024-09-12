@@ -1,0 +1,9 @@
+[package]
+name = "soroban"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clang = "2.0.0"
+llvm-config = "0.1.0"
+raylib = "5.0.1"
